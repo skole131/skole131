@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amel Islamovi</h1>
+<h1 align="center">Hi 👋, I'm Amel Islamovic</h1>
 <h3 align="center">A passionate full-stack developer from Bosnia and Herzegovina</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=skole131&label=Profile%20views&color=0e75b6&style=flat" alt="skole131" /> </p>
